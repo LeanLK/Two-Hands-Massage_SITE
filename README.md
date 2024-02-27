@@ -2,7 +2,7 @@
 A business landing page for Two Hands Massage beauty studio
 
 
-![image]([https://github.com/whos-gabi/two-hands-massage/assets/56652297/66345e6b-b0a8-461b-828f-a4c283f34276](https://github.com/LeanLK/Two-Hands-Massage_SITE/blob/main/images/242421997-66345e6b-b0a8-461b-828f-a4c283f34276.png))
+![image](https://github.com/whos-gabi/two-hands-massage/assets/56652297/66345e6b-b0a8-461b-828f-a4c283f34276)
 
 
 ### Used Frameworks
