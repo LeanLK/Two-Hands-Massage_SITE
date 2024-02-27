@@ -1,5 +1,7 @@
 # Two Hands Massage
 A business landing page for Two Hands Massage beauty studio
+
+
 Un landing page de afaceri pentru studioul de înfrumusețare Two Hands Massage
 
 ![image](https://github.com/whos-gabi/two-hands-massage/assets/56652297/66345e6b-b0a8-461b-828f-a4c283f34276)
